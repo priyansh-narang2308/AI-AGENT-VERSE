@@ -1,0 +1,6 @@
+agno
+streamlit
+google-generativeai
+Requests
+firecrawl-py
+elevenlabs
